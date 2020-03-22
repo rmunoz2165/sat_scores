@@ -57,7 +57,7 @@ https://magoosh.com/hs/sat/sat-scores/2018/average-sat-scores-by-state-how-does-
 
 
 
-{google_docs}https://docs.google.com/presentation/d/1MGiwQT8M6xA_aXYLk_NJO-42Xudlrx-_mNJCudulH28/edit#slide=id.gc6f9544c1_0_0{/google_docs}
+{google_docs}https://docs.google.com/presentation/d/1MGiwQT8M6xA_aXYLk_NJO-42Xudlrx-_mNJCudulH28/edit#slide=id.gc6f9544c1_0_0 {/google_docs}
 
 
 
